@@ -1,0 +1,2563 @@
+{
+    "comptype": "availability",
+    "headers": {
+        "data": [
+            {
+                "header_id": 7,
+                "header_text": 7
+            },
+            {
+                "header_id": 8,
+                "header_text": 8
+            },
+            {
+                "header_id": 9,
+                "header_text": 9
+            },
+            {
+                "header_id": 10,
+                "header_text": 10
+            },
+            {
+                "header_id": 11,
+                "header_text": 11
+            },
+            {
+                "header_id": 12,
+                "header_text": 12,
+                "is_pm": 1
+            },
+            {
+                "header_id": 13,
+                "header_text": 1,
+                "is_pm": 1
+            },
+            {
+                "header_id": 14,
+                "header_text": 2,
+                "is_pm": 1
+            },
+            {
+                "header_id": 15,
+                "header_text": 3,
+                "is_pm": 1
+            },
+            {
+                "header_id": 16,
+                "header_text": 4,
+                "is_pm": 1
+            },
+            {
+                "header_id": 17,
+                "header_text": 5,
+                "is_pm": 1
+            },
+            {
+                "header_id": 18,
+                "header_text": 6,
+                "is_pm": 1
+            },
+            {
+                "header_id": 19,
+                "header_text": 7,
+                "is_pm": 1
+            },
+            {
+                "header_id": 20,
+                "header_text": 8,
+                "is_pm": 1
+            },
+            {
+                "header_id": 21,
+                "header_text": 9,
+                "is_pm": 1
+            },
+            {
+                "header_id": 22,
+                "header_text": 10,
+                "is_pm": 1
+            },
+            {
+                "header_id": 23,
+                "header_text": 11,
+                "is_pm": 1
+            }
+        ]
+    },
+    "obj_id": 1286,
+    "last_id": 161,
+    "canStar": 1,
+    "subjects": [
+        {
+            "itemId": 58,
+            "itemName": "AKW 100 (27)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17466950,
+                    "type_id": 1,
+                    "start": "13.000000",
+                    "event_type_id": 26,
+                    "exp_head_count": 18,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 565577,
+                    "itemName": "CPSC 1100 Discussion Section W 1300",
+                    "has_perm": 1,
+                    "end": 13.833333,
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "67.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "7.000000",
+                    "end": "8.000000",
+                    "itemTypeId": 1
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "17.000000",
+                    "end": "24.000000",
+                    "itemTypeId": 1
+                }
+            ]
+        },
+        {
+            "itemId": 105,
+            "itemName": "BASSLB L70 (18)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17528182,
+                    "type_id": 1,
+                    "start": "18.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 10,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 570371,
+                    "itemName": "Econ 2251: Waley Office Hours (6 to 7)",
+                    "has_perm": 1,
+                    "end": "19.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "56.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17462780,
+                    "type_id": 1,
+                    "start": "19.750000",
+                    "event_type_id": 83,
+                    "exp_head_count": 10,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 565110,
+                    "itemName": "CHEM 1740 Peer Tutor Office Hours",
+                    "has_perm": 1,
+                    "end": "22.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "56.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "7.000000",
+                    "end": "8.500000",
+                    "itemTypeId": 1
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "23.750000",
+                    "end": "24.000000",
+                    "itemTypeId": 1
+                }
+            ]
+        },
+        {
+            "itemId": 852,
+            "itemName": "BASSLB L71 (12)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17481234,
+                    "type_id": 1,
+                    "start": "18.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 10,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 565565,
+                    "itemName": "Econ 1115 Peer Tutoring",
+                    "has_perm": 1,
+                    "end": "19.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "83.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17521462,
+                    "type_id": 1,
+                    "start": "20.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 10,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 569490,
+                    "itemName": "S&DS 365/665 Office Hours",
+                    "has_perm": 1,
+                    "end": "21.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "83.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "7.000000",
+                    "end": "8.500000",
+                    "itemTypeId": 1
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "23.750000",
+                    "end": "24.000000",
+                    "itemTypeId": 1
+                }
+            ]
+        },
+        {
+            "itemId": 861,
+            "itemName": "BASSLB L72 (12)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17490387,
+                    "type_id": 1,
+                    "start": "8.750000",
+                    "event_type_id": 52,
+                    "exp_head_count": 10,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 567220,
+                    "itemName": "Math 1100 Workshop 8",
+                    "has_perm": 1,
+                    "end": "9.750000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "83.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17430195,
+                    "type_id": 1,
+                    "start": "11.500000",
+                    "event_type_id": 83,
+                    "exp_head_count": 0,
+                    "itemId": 563563,
+                    "itemName": "Office Hours",
+                    "has_perm": 1,
+                    "end": "12.500000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "0.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17484996,
+                    "type_id": 1,
+                    "start": "19.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 8,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 567023,
+                    "itemName": "CPSC 4190 Office Hours",
+                    "has_perm": 1,
+                    "end": "21.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "67.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "7.000000",
+                    "end": "8.500000",
+                    "itemTypeId": 1
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "23.750000",
+                    "end": "24.000000",
+                    "itemTypeId": 1
+                }
+            ]
+        },
+        {
+            "itemId": 106,
+            "itemName": "BASSLB L73 (18)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "7.000000",
+                    "end": "8.500000",
+                    "itemTypeId": 1
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "23.750000",
+                    "end": "24.000000",
+                    "itemTypeId": 1
+                }
+            ]
+        },
+        {
+            "itemId": 2187,
+            "itemName": "BCT 227 (20)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17528332,
+                    "type_id": 1,
+                    "start": "11.000000",
+                    "event_type_id": 26,
+                    "exp_head_count": 15,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 570399,
+                    "itemName": "A. Dollar and GRAB Lab (group meeting)",
+                    "has_perm": 1,
+                    "end": "12.500000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "75.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17542999,
+                    "type_id": 1,
+                    "start": "13.000000",
+                    "event_type_id": 26,
+                    "exp_head_count": 8,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 573331,
+                    "itemName": "Jung Han Lab meeting",
+                    "has_perm": 1,
+                    "end": "14.500000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "40.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17448851,
+                    "type_id": 1,
+                    "start": "15.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 20,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 564441,
+                    "itemName": "Sohrab's TAs Office Hours",
+                    "has_perm": 1,
+                    "end": "16.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "100.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "23.500000",
+                    "end": "24.000000",
+                    "itemTypeId": 1
+                }
+            ]
+        },
+        {
+            "itemId": 401,
+            "itemName": "BCT CO31 (49)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17466593,
+                    "type_id": 1,
+                    "start": "19.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 37,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 565504,
+                    "itemName": "Math 222 Peer Tutors",
+                    "has_perm": 1,
+                    "end": "21.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "76.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1262,
+            "itemName": "CO493 102 (10)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17474608,
+                    "type_id": 1,
+                    "start": "16.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 8,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 566219,
+                    "itemName": "ECON 2123 TA Office Hours",
+                    "has_perm": 1,
+                    "end": "17.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "80.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "7.000000",
+                    "end": "8.000000",
+                    "itemTypeId": 1
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "17.000000",
+                    "end": "24.000000",
+                    "itemTypeId": 1
+                }
+            ]
+        },
+        {
+            "itemId": 1263,
+            "itemName": "CO493 103 (15)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17439741,
+                    "type_id": 1,
+                    "start": "10.000000",
+                    "event_type_id": 26,
+                    "exp_head_count": 6,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 563981,
+                    "itemName": "Sociology Staff Meeting",
+                    "has_perm": 1,
+                    "end": "11.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "40.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "7.000000",
+                    "end": "8.000000",
+                    "itemTypeId": 1
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "17.000000",
+                    "end": "24.000000",
+                    "itemTypeId": 1
+                }
+            ]
+        },
+        {
+            "itemId": 1264,
+            "itemName": "CO493 106 (37)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17647396,
+                    "type_id": 1,
+                    "start": "15.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 25,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 579555,
+                    "itemName": "Peer tutoring session Math 222",
+                    "has_perm": 1,
+                    "end": "17.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "68.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "7.000000",
+                    "end": "8.000000",
+                    "itemTypeId": 1
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "17.000000",
+                    "end": "24.000000",
+                    "itemTypeId": 1
+                }
+            ]
+        },
+        {
+            "itemId": 1265,
+            "itemName": "CO493 208 (21)",
+            "item_date": "2025-11-26T00:00:00",
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "7.000000",
+                    "end": "8.000000",
+                    "itemTypeId": 1
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "17.000000",
+                    "end": "24.000000",
+                    "itemTypeId": 1
+                }
+            ]
+        },
+        {
+            "itemId": 115,
+            "itemName": "DAVIES AUD (265)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 118,
+            "itemName": "DL 120 (54)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17445975,
+                    "type_id": 1,
+                    "start": "10.500000",
+                    "event_type_id": 26,
+                    "exp_head_count": 30,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 564313,
+                    "itemName": "MCDB3000 discussion section",
+                    "has_perm": 1,
+                    "end": "11.500000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "56.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17466950,
+                    "type_id": 1,
+                    "start": "13.000000",
+                    "event_type_id": 26,
+                    "exp_head_count": 18,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 565577,
+                    "itemName": "CPSC 1100 Discussion Section W 1300",
+                    "has_perm": 1,
+                    "end": 13.833333,
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "33.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17436473,
+                    "type_id": 1,
+                    "start": "16.000000",
+                    "event_type_id": 26,
+                    "exp_head_count": 30,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 563510,
+                    "itemName": "S&DS Preceptor Meeting",
+                    "has_perm": 1,
+                    "end": "19.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "56.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17656811,
+                    "type_id": 1,
+                    "start": "20.000000",
+                    "event_type_id": 89,
+                    "exp_head_count": 30,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 580458,
+                    "itemName": "Putnam Seminars",
+                    "has_perm": 1,
+                    "end": "21.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "56.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 120,
+            "itemName": "DL 220 (141)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1741,
+            "itemName": "DL 316 (18)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17464213,
+                    "type_id": 1,
+                    "start": "10.500000",
+                    "event_type_id": 26,
+                    "exp_head_count": 15,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 565202,
+                    "itemName": "MCDB 1050 TF Meetings",
+                    "has_perm": 1,
+                    "end": "11.500000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "83.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17474195,
+                    "type_id": 1,
+                    "start": "16.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 15,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 566156,
+                    "itemName": "APHY 4700 OH",
+                    "has_perm": 1,
+                    "end": "17.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "83.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17436094,
+                    "type_id": 1,
+                    "start": "18.500000",
+                    "event_type_id": 25,
+                    "exp_head_count": 15,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 563817,
+                    "itemName": "CPSC 1100 Office Hours",
+                    "has_perm": 1,
+                    "end": "20.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "83.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1212,
+            "itemName": "DL 326 (25)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 16972318,
+                    "type_id": 1,
+                    "start": "16.000000",
+                    "event_type_id": 26,
+                    "exp_head_count": 10,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 560244,
+                    "itemName": "Fall 2025 - MENG 2616 Lab Meetings",
+                    "has_perm": 1,
+                    "end": "17.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "40.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "7.000000",
+                    "end": "8.000000",
+                    "itemTypeId": 1
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "23.500000",
+                    "end": "24.000000",
+                    "itemTypeId": 1
+                }
+            ]
+        },
+        {
+            "itemId": 2206,
+            "itemName": "DL 331 (25)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 1,
+                    "itemId2": 17643092,
+                    "type_id": 1,
+                    "start": "13.000000",
+                    "event_type_id": 26,
+                    "exp_head_count": 10,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 579213,
+                    "itemName": "High-temperature alloy project meeting",
+                    "has_perm": 1,
+                    "end": "14.500000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "40.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17481314,
+                    "type_id": 1,
+                    "start": "16.500000",
+                    "event_type_id": 83,
+                    "exp_head_count": 5,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 566830,
+                    "itemName": "ENAS 5000 Office Hours",
+                    "has_perm": 1,
+                    "end": "17.500000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "20.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "7.000000",
+                    "end": "8.000000",
+                    "itemTypeId": 1
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "21.000000",
+                    "end": "24.000000",
+                    "itemTypeId": 1
+                }
+            ]
+        },
+        {
+            "itemId": 121,
+            "itemName": "DL 431 (25)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17779455,
+                    "type_id": 1,
+                    "start": "10.000000",
+                    "event_type_id": 26,
+                    "exp_head_count": 10,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 582540,
+                    "itemName": "Dixit Lab Meeting",
+                    "has_perm": 1,
+                    "end": "12.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "40.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 16968550,
+                    "type_id": 1,
+                    "start": "15.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 20,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 560203,
+                    "itemName": "CPSC1001 Office Hours",
+                    "has_perm": 1,
+                    "end": "17.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "80.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "7.000000",
+                    "end": "8.000000",
+                    "itemTypeId": 1
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "23.500000",
+                    "end": "24.000000",
+                    "itemTypeId": 1
+                }
+            ]
+        },
+        {
+            "itemId": 122,
+            "itemName": "DL 514 (20)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "7.000000",
+                    "end": "8.000000",
+                    "itemTypeId": 1
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "23.500000",
+                    "end": "24.000000",
+                    "itemTypeId": 1
+                }
+            ]
+        },
+        {
+            "itemId": 1270,
+            "itemName": "DL 518 (10)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17498364,
+                    "type_id": 1,
+                    "start": "15.000000",
+                    "event_type_id": 26,
+                    "exp_head_count": 5,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 568099,
+                    "itemName": "Computational Biomechanics Lab Meeting",
+                    "has_perm": 1,
+                    "end": "16.500000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "50.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "7.000000",
+                    "end": "8.000000",
+                    "itemTypeId": 1
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "23.500000",
+                    "end": "24.000000",
+                    "itemTypeId": 1
+                }
+            ]
+        },
+        {
+            "itemId": 1391,
+            "itemName": "DOW 112 (18)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1392,
+            "itemName": "DOW 215 (18)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 1,
+                    "itemId2": 17442981,
+                    "type_id": 1,
+                    "start": "16.000000",
+                    "event_type_id": 84,
+                    "exp_head_count": 12,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 564163,
+                    "itemName": "Section: Syntax I",
+                    "has_perm": 1,
+                    "end": "17.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "60.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1398,
+            "itemName": "DOW 420 (16)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1399,
+            "itemName": "DOW B-07 (10)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1410,
+            "itemName": "DOW B-08 (2)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1415,
+            "itemName": "DOW B-11 (6)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1409,
+            "itemName": "DOW B-12 (2)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1400,
+            "itemName": "DOW B-13 (8)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1407,
+            "itemName": "DOW B-14 (2)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1404,
+            "itemName": "DOW B-15 (4)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1406,
+            "itemName": "DOW B-16 (3)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 128,
+            "itemName": "ESC 110 (32)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17471116,
+                    "type_id": 1,
+                    "start": "18.000000",
+                    "event_type_id": 25,
+                    "exp_head_count": 25,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 565933,
+                    "itemName": "EEB 2295  A",
+                    "has_perm": 1,
+                    "end": "19.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "78.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1322,
+            "itemName": "HLH17 03 (31)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17494133,
+                    "type_id": 1,
+                    "start": "16.000000",
+                    "event_type_id": 84,
+                    "exp_head_count": 30,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 567478,
+                    "itemName": "ECON 5545 TF Session",
+                    "has_perm": 1,
+                    "end": "17.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "97.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 16969068,
+                    "type_id": 1,
+                    "start": "19.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 20,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 560204,
+                    "itemName": "CPSC1001 Office Hours",
+                    "has_perm": 1,
+                    "end": "21.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "65.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1323,
+            "itemName": "HLH17 05 (53)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17472145,
+                    "type_id": 1,
+                    "start": "16.000000",
+                    "event_type_id": 26,
+                    "exp_head_count": 15,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 566020,
+                    "itemName": "Gentner Group Meeting",
+                    "has_perm": 1,
+                    "end": "17.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "28.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17474395,
+                    "type_id": 1,
+                    "start": "17.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 15,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 566203,
+                    "itemName": "ENAS 440 (FA25) - TA Office Hours",
+                    "has_perm": 1,
+                    "end": "18.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "28.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1315,
+            "itemName": "HLH17 101 (126)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "itemId": 0,
+                    "itemName": "Study Halls",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 2,
+                    "start": "18.000000",
+                    "end": "23.000000",
+                    "itemTypeId": 1
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "7.000000",
+                    "end": "8.000000",
+                    "itemTypeId": 1
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "23.500000",
+                    "end": "24.000000",
+                    "itemTypeId": 1
+                }
+            ]
+        },
+        {
+            "itemId": 1324,
+            "itemName": "HLH17 111 (74)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17529020,
+                    "type_id": 1,
+                    "start": 20.583333,
+                    "event_type_id": 83,
+                    "exp_head_count": 10,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 570606,
+                    "itemName": "MENG 2050/5050 Office Hour",
+                    "has_perm": 1,
+                    "end": 21.583333,
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "14.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1325,
+            "itemName": "HLH17 113 (33)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 16965068,
+                    "type_id": 1,
+                    "start": "18.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 30,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 560039,
+                    "itemName": "Computer Science Office Hours",
+                    "has_perm": 1,
+                    "end": "23.500000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "91.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1326,
+            "itemName": "HLH17 115 (42)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 16965176,
+                    "type_id": 1,
+                    "start": "19.500000",
+                    "event_type_id": 83,
+                    "exp_head_count": 40,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 560041,
+                    "itemName": "Computer Science Office Hours",
+                    "has_perm": 1,
+                    "end": 23.983333,
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "95.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1413,
+            "itemName": "HLH17 233 (15)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17462814,
+                    "type_id": 1,
+                    "start": "10.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 10,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 565113,
+                    "itemName": "PHY 1700 Office Hours",
+                    "has_perm": 1,
+                    "end": "11.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "67.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17446140,
+                    "type_id": 1,
+                    "start": "16.000000",
+                    "event_type_id": 26,
+                    "exp_head_count": 10,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 564320,
+                    "itemName": "Hu Labs Subgroup Meeting",
+                    "has_perm": 1,
+                    "end": "18.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "67.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17475646,
+                    "type_id": 1,
+                    "start": "18.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 15,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 566328,
+                    "itemName": "Molecular Modeling\u2014Recitation",
+                    "has_perm": 1,
+                    "end": "20.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "100.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "7.000000",
+                    "end": "8.000000",
+                    "itemTypeId": 1
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "21.000000",
+                    "end": "24.000000",
+                    "itemTypeId": 1
+                }
+            ]
+        },
+        {
+            "itemId": 2153,
+            "itemName": "HLH17 335 (15)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17430310,
+                    "type_id": 1,
+                    "start": "10.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 10,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 563572,
+                    "itemName": "TF Office Hours - CPSC 455",
+                    "has_perm": 1,
+                    "end": "11.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "67.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17001632,
+                    "type_id": 1,
+                    "start": "14.500000",
+                    "event_type_id": 26,
+                    "exp_head_count": 15,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 560648,
+                    "itemName": "Arman Cohan Fall Lab Meetings",
+                    "has_perm": 1,
+                    "end": "17.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "100.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17501490,
+                    "type_id": 1,
+                    "start": "17.000000",
+                    "event_type_id": 26,
+                    "exp_head_count": 15,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 568596,
+                    "itemName": "Arman Cohan Fall PhD Student Meeting",
+                    "has_perm": 1,
+                    "end": "18.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "100.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "7.000000",
+                    "end": "8.000000",
+                    "itemTypeId": 1
+                },
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "18.000000",
+                    "end": "24.000000",
+                    "itemTypeId": 1
+                }
+            ]
+        },
+        {
+            "itemId": 1807,
+            "itemName": "HQ 1002 (5)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1808,
+            "itemName": "HQ 102 (22)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "itemId": 0,
+                    "itemName": "Closed",
+                    "itemId2": 0,
+                    "has_perm": 0,
+                    "type_id": 3,
+                    "start": "21.000000",
+                    "end": "24.000000",
+                    "itemTypeId": 1
+                }
+            ]
+        },
+        {
+            "itemId": 1809,
+            "itemName": "HQ 107 (22)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1810,
+            "itemName": "HQ 109 (18)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17385747,
+                    "type_id": 1,
+                    "start": "17.500000",
+                    "event_type_id": 44,
+                    "exp_head_count": 5,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 562021,
+                    "itemName": "Film 6900 Setup",
+                    "has_perm": 1,
+                    "end": "18.500000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "28.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17386130,
+                    "type_id": 1,
+                    "start": "21.000000",
+                    "event_type_id": 44,
+                    "exp_head_count": 5,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 562023,
+                    "itemName": "Film 6900 extra time",
+                    "has_perm": 1,
+                    "end": "23.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "28.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1811,
+            "itemName": "HQ 1102 (5)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17528238,
+                    "type_id": 1,
+                    "start": "16.500000",
+                    "event_type_id": 83,
+                    "exp_head_count": 3,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 570393,
+                    "itemName": "Am Env History Office Hours",
+                    "has_perm": 1,
+                    "end": "17.500000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "60.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1812,
+            "itemName": "HQ 113 (18)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1813,
+            "itemName": "HQ 1202 (5)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1814,
+            "itemName": "HQ 121 (16)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1815,
+            "itemName": "HQ 123 (16)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 16973281,
+                    "type_id": 1,
+                    "start": "18.000000",
+                    "event_type_id": 44,
+                    "exp_head_count": 16,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 560338,
+                    "itemName": "Kirsten Seuffert Film 8740 Course Screen",
+                    "has_perm": 1,
+                    "end": "22.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "100.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1816,
+            "itemName": "HQ 127 (18)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1817,
+            "itemName": "HQ 129 (18)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1818,
+            "itemName": "HQ 1302 (5)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1819,
+            "itemName": "HQ 131 (67)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1820,
+            "itemName": "HQ 132 (30)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1821,
+            "itemName": "HQ 133 (26)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 16968954,
+                    "type_id": 1,
+                    "start": "19.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 20,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 560208,
+                    "itemName": "CS1001 Office Hours",
+                    "has_perm": 1,
+                    "end": "21.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "77.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1822,
+            "itemName": "HQ 134 (56)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1917,
+            "itemName": "HQ 135A, Catering Kitchen (6)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1823,
+            "itemName": "HQ 136 (69)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1824,
+            "itemName": "HQ 137 (8)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17434255,
+                    "type_id": 1,
+                    "start": "14.500000",
+                    "event_type_id": 26,
+                    "exp_head_count": 6,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 563696,
+                    "itemName": "Team Meeting with Marion and Grace",
+                    "has_perm": 1,
+                    "end": "16.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "75.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1826,
+            "itemName": "HQ 156 (12)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17386855,
+                    "type_id": 1,
+                    "start": "15.000000",
+                    "event_type_id": 26,
+                    "exp_head_count": 4,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 562036,
+                    "itemName": "MDST Meetings",
+                    "has_perm": 1,
+                    "end": "16.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "33.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1829,
+            "itemName": "HQ 206 (14)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17436576,
+                    "type_id": 1,
+                    "start": "13.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 5,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 563866,
+                    "itemName": "HIST 2214 Office Hours",
+                    "has_perm": 1,
+                    "end": "15.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "36.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1830,
+            "itemName": "HQ 207 (28)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17437833,
+                    "type_id": 1,
+                    "start": 15.333333,
+                    "event_type_id": 83,
+                    "exp_head_count": 3,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 563924,
+                    "itemName": "Office Hours \u2014 FREN 1300 Section 4",
+                    "has_perm": 1,
+                    "end": "16.500000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "11.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17464477,
+                    "type_id": 1,
+                    "start": "20.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 20,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 565250,
+                    "itemName": "ECON 159",
+                    "has_perm": 1,
+                    "end": "21.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "71.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1831,
+            "itemName": "HQ 209 (18)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1832,
+            "itemName": "HQ 213 (18)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1833,
+            "itemName": "HQ 225 (18)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1834,
+            "itemName": "HQ 227 (28)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17466974,
+                    "type_id": 1,
+                    "start": "14.500000",
+                    "event_type_id": 26,
+                    "exp_head_count": 18,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 565578,
+                    "itemName": "CPSC 1100 Discussion Section MW 1430",
+                    "has_perm": 1,
+                    "end": 15.333333,
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "64.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17450857,
+                    "type_id": 1,
+                    "start": "19.000000",
+                    "event_type_id": 84,
+                    "exp_head_count": 15,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 564514,
+                    "itemName": "Peer tutoring",
+                    "has_perm": 1,
+                    "end": "21.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "54.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1835,
+            "itemName": "HQ 229 (28)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1836,
+            "itemName": "HQ 248 (8)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17527217,
+                    "type_id": 1,
+                    "start": "8.000000",
+                    "event_type_id": 26,
+                    "exp_head_count": 4,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 570169,
+                    "itemName": "Dissertation writing study group",
+                    "has_perm": 1,
+                    "end": "12.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "50.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17504722,
+                    "type_id": 1,
+                    "start": "12.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 5,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 568969,
+                    "itemName": "Shakespeare Section D Office Hours",
+                    "has_perm": 1,
+                    "end": "13.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "63.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1838,
+            "itemName": "HQ 267 (12)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1840,
+            "itemName": "HQ 276 (51)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1842,
+            "itemName": "HQ 307 (28)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "itemId2": 0,
+                    "type_id": 1,
+                    "start": "13.500000",
+                    "exp_head_count": 18,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 0,
+                    "itemName": "(Private)",
+                    "has_perm": 0,
+                    "end": 14.333333,
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "64.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "itemId2": 0,
+                    "type_id": 1,
+                    "start": "15.500000",
+                    "exp_head_count": 18,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 0,
+                    "itemName": "(Private)",
+                    "has_perm": 0,
+                    "end": 16.333333,
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "64.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1843,
+            "itemName": "HQ 309 (18)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1844,
+            "itemName": "HQ 313 (18)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1845,
+            "itemName": "HQ 317 (12)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17500585,
+                    "type_id": 1,
+                    "start": "16.000000",
+                    "event_type_id": 84,
+                    "exp_head_count": 10,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 568421,
+                    "itemName": "PORT 3520 TF section",
+                    "has_perm": 1,
+                    "end": "17.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "83.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1847,
+            "itemName": "HQ 327 (14)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1990,
+            "itemName": "HQ 330 (2)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17520797,
+                    "type_id": 1,
+                    "start": "15.500000",
+                    "event_type_id": 83,
+                    "exp_head_count": 2,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 569314,
+                    "itemName": "Office Hours",
+                    "has_perm": 1,
+                    "end": "17.500000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "100.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1848,
+            "itemName": "HQ 342 (12)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 16254897,
+                    "type_id": 1,
+                    "start": "14.500000",
+                    "event_type_id": 83,
+                    "exp_head_count": 12,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 546468,
+                    "itemName": "Chair's Office Hours - Comp. Lit",
+                    "has_perm": 1,
+                    "end": "16.500000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "100.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1852,
+            "itemName": "HQ 359 (18)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17475081,
+                    "type_id": 1,
+                    "start": "8.750000",
+                    "event_type_id": 26,
+                    "exp_head_count": 10,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 566230,
+                    "itemName": "German Search Committee Meeting",
+                    "has_perm": 1,
+                    "end": "10.750000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "56.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1854,
+            "itemName": "HQ 401 (30)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1855,
+            "itemName": "HQ 422 (16)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 2151,
+            "itemName": "HQ 430 (3)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17463148,
+                    "type_id": 1,
+                    "start": "16.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 2,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 565124,
+                    "itemName": "Office Hours",
+                    "has_perm": 1,
+                    "end": "18.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "67.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1858,
+            "itemName": "HQ 432 (12)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17441205,
+                    "type_id": 1,
+                    "start": "11.500000",
+                    "event_type_id": 26,
+                    "exp_head_count": 6,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 564069,
+                    "itemName": "Daccache Meeting",
+                    "has_perm": 1,
+                    "end": 13.333333,
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "50.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17491487,
+                    "type_id": 1,
+                    "start": "16.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 12,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 567266,
+                    "itemName": "Information sessions",
+                    "has_perm": 1,
+                    "end": "17.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "100.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1859,
+            "itemName": "HQ 519 (12)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1862,
+            "itemName": "HQ 532 (18)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1864,
+            "itemName": "HQ 619 (5)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1865,
+            "itemName": "HQ 702 (5)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1866,
+            "itemName": "HQ 802 (5)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1867,
+            "itemName": "HQ 902 (5)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1868,
+            "itemName": "HQ C01 (21)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1869,
+            "itemName": "HQ C03 (22)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1870,
+            "itemName": "HQ C05 (12)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1872,
+            "itemName": "HQ C07 (20)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1873,
+            "itemName": "HQ C08 (4)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17502077,
+                    "type_id": 1,
+                    "start": "14.500000",
+                    "event_type_id": 26,
+                    "exp_head_count": 4,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 568702,
+                    "itemName": "Dissertation Writing Group",
+                    "has_perm": 1,
+                    "end": "16.500000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "100.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1874,
+            "itemName": "HQ C09 (4)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17502021,
+                    "type_id": 1,
+                    "start": "10.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 2,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 568696,
+                    "itemName": "Office hours",
+                    "has_perm": 1,
+                    "end": "12.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "50.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17644286,
+                    "type_id": 1,
+                    "start": "13.500000",
+                    "event_type_id": 83,
+                    "exp_head_count": 2,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 579397,
+                    "itemName": "AMST 2272 office hours",
+                    "has_perm": 1,
+                    "end": "15.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "50.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1875,
+            "itemName": "HQ C10 (4)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0,
+            "items": [
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17466317,
+                    "type_id": 1,
+                    "start": "11.750000",
+                    "event_type_id": 83,
+                    "exp_head_count": 2,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 565446,
+                    "itemName": "TF Office Hours (HIST 1733)",
+                    "has_perm": 1,
+                    "end": "14.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "50.00000000000",
+                    "rhc_cap": "0.00000000000"
+                },
+                {
+                    "cur_event_state": 2,
+                    "itemId2": 17441813,
+                    "type_id": 1,
+                    "start": "14.000000",
+                    "event_type_id": 83,
+                    "exp_head_count": 4,
+                    "rhc_ehc": "0.00000000000",
+                    "itemId": 564111,
+                    "itemName": "TF office hours",
+                    "has_perm": 1,
+                    "end": "16.000000",
+                    "itemTypeId": 1,
+                    "reg_head_count": 0,
+                    "ehc_cap": "100.00000000000",
+                    "rhc_cap": "0.00000000000"
+                }
+            ]
+        },
+        {
+            "itemId": 1876,
+            "itemName": "HQ C11 (22)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1877,
+            "itemName": "HQ C12 (4)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1878,
+            "itemName": "HQ C13 (4)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1879,
+            "itemName": "HQ C14 (4)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        },
+        {
+            "itemId": 1880,
+            "itemName": "HQ C15 (22)",
+            "item_date": "2025-11-26T00:00:00",
+            "create_event": 1,
+            "itemTypeId": 4,
+            "isFav": 0
+        }
+    ],
+    "lastupdate": "2025-11-26T18:49:44.790",
+    "page_count": 3
+}
